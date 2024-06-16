@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileReader
+comment1.params=filename
+comment1.target=Customer\ readCustomerFromFile(java.lang.String)
+comment2.params=filename\ customer
+comment2.target=Ticket\ readTicketFromFile(java.lang.String,\ Customer)
+numComments=3

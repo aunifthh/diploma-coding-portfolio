@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NonMalaysian
+comment1.params=n\ t\ h\ a\ p\ c
+comment1.target=NonMalaysian(java.lang.String,\ char,\ double,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=n\ t\ h\ a\ p\ c
+comment2.target=void\ setNonMalaysian(java.lang.String,\ char,\ double,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=c
+comment3.target=void\ setCountry(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCountry()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

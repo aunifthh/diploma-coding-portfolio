@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Malaysian
+comment1.params=n\ t\ h\ a\ p\ i\ cust
+comment1.target=Malaysian(java.lang.String,\ char,\ double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=n\ t\ h\ a\ p\ i\ cust
+comment2.target=void\ setMalaysian(java.lang.String,\ char,\ double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=i
+comment3.target=java.lang.String\ getIC(java.lang.String)
+comment4.params=cust
+comment4.target=java.lang.String\ getCustomer(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

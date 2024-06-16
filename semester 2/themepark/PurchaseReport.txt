@@ -1,0 +1,24 @@
+=============================================
+           ! CUSTOMER INFO !                 
+=============================================
+Customer's name:Auni
+Customer's nationality:M
+Customer's height:163.0
+Customer's age:19
+Customer's phone number:012903232
+=============================================
+ID:12
+Rides:TC
+Date:19/10/2002
+Quantity:1
+Type of ticket :E
+Customer Info:Customer's name:Auni
+Customer's nationality:M
+Customer's height:163.0
+Customer's age:19
+Customer's phone number:012903232
+=============================================
+The discount is : 0.05
+
+Total Price Ticket After Discount is : RM 142.5
+=============================================
