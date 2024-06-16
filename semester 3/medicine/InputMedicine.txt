@@ -1,0 +1,23 @@
+001;Sarah;011-78954563;36;yes;7845;Blackmores Vitamin C500 60s;2;25.90;s
+002;Damia;011-78932563;38;yes;7846;Hovid Folic Acid 5mg 10sx10;3;6.00;s
+003;Auni;014-78954567;37;yes;7847;Neurobion Tab 10sx6;1;43.20;s
+004;Ali;013-78944563;35;yes;7848;Himalaya Pilex Ointment 30g;2;20.30;s
+005;Hafiz;011-72964563;40;no;7849;Scaboma Lotion 100ml;2;15.20;m
+006;Hafizi;011-72064563;30;yes;7850;Nixoderm Ointment 17.7gm;3;14.90;m
+007;Azim;019-79964563;39;yes;7851;3legs Tinea Skin Solution 12ml;5;2.80;m
+008;Azmi;019-79964553;55;yes;7852;Scotts Emulsion 2x400ml;3;31.00;s
+009;Aziea;019-79933563;29;no;7853;Blackmores OMEGA-3 Fish Oil 1000mg 120s;2;62.70;s
+010;Abdul;011-79944563;35;yes;7854;Yuka Zan Kf94 4Ply Protective Face Mask 10s;5;13.90;m
+011;Razia;019-70964560;37;yes;7855;Terumo Ss+20L Syringe 20ml Luer Lock 1s;8;2.90;m
+012;Amira;012-20984560;37;no;7856;Flavettes Effevescent Glow Tab 15s;5;19.45;s
+013;Izzah;019-70964330;42;yes;7857;Himalaya Pure Herbs Haridra 60s;2;36.30;s
+014;Khalis;019-70054560;30;yes;7858;21st Century Children Vaporbalm 38g;3;7.00;s
+015;Amalia;011-70962260;31;no;7851;Hurixs Cool Inhaler 1Pc;5;5.60;m
+016;Aming;011-74432563;38;yes;7846;Hovid Folic Acid 5mg 10sx10;2;6.00;s
+017;Haziq;017-72060063;30;yes;7850;Nixoderm Ointment 17.7gm;3;14.90;m
+018;Sakinah;013-79932553;39;no;7852;Scotts Emulsion 2x400ml;4;31.00;s
+019;Aminah;012-20987760;36;yes;7856;Flavettes Effevescent Glow Tab 15s;3;19.45;s
+020;Akif;019-78944063;35;yes;7848;Himalaya Pilex Ointment 30g;3;20.30;s
+021;Fahmi;019-79933598;45;yes;7853;Blackmores OMEGA-3 Fish Oil 1000mg 120s;4;62.70;s
+022;Irdina;012-30984540;37;yes;7856;Flavettes Effevescent Glow Tab 15s;2;19.45;s
+023;Rahman;011-70962261;40;yes;7851;Hurixs Cool Inhaler 1Pc;3;5.60;m

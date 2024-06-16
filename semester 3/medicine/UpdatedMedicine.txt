@@ -1,0 +1,253 @@
+
+Customer ID: 001
+Customer Name: Sarah
+Phone No: 011-78954563
+Age : 36
+Member Status: yes
+Medcine ID: 7845
+Medicine Name: Blackmores Vitamin C500 60s
+Medicine Quantity: 2
+Medicine Price: 25.9
+Meicine Type: s
+
+Customer ID: 002
+Customer Name: Damia
+Phone No: 011-78932563
+Age : 38
+Member Status: yes
+Medcine ID: 7846
+Medicine Name: Hovid Folic Acid 5mg 10sx10
+Medicine Quantity: 3
+Medicine Price: 6.0
+Meicine Type: s
+
+Customer ID: 003
+Customer Name: Auni
+Phone No: 014-78954567
+Age : 37
+Member Status: yes
+Medcine ID: 7847
+Medicine Name: Neurobion Tab 10sx6
+Medicine Quantity: 1
+Medicine Price: 43.2
+Meicine Type: s
+
+Customer ID: 004
+Customer Name: Ali
+Phone No: 013-78944563
+Age : 35
+Member Status: yes
+Medcine ID: 7848
+Medicine Name: Himalaya Pilex Ointment 30g
+Medicine Quantity: 2
+Medicine Price: 20.3
+Meicine Type: s
+
+Customer ID: 005
+Customer Name: Hafiz
+Phone No: 011-72964563
+Age : 40
+Member Status: no
+Medcine ID: 7849
+Medicine Name: Scaboma Lotion 100ml
+Medicine Quantity: 2
+Medicine Price: 15.2
+Meicine Type: m
+
+Customer ID: 006
+Customer Name: Hafizi
+Phone No: 011-72064563
+Age : 30
+Member Status: yes
+Medcine ID: 7850
+Medicine Name: Nixoderm Ointment 17.7gm
+Medicine Quantity: 3
+Medicine Price: 14.9
+Meicine Type: m
+
+Customer ID: 007
+Customer Name: Azim
+Phone No: 019-79964563
+Age : 39
+Member Status: yes
+Medcine ID: 7851
+Medicine Name: 3legs Tinea Skin Solution 12ml
+Medicine Quantity: 5
+Medicine Price: 2.8
+Meicine Type: m
+
+Customer ID: 008
+Customer Name: Azmi
+Phone No: 019-79964553
+Age : 55
+Member Status: yes
+Medcine ID: 7852
+Medicine Name: Scotts Emulsion 2x400ml
+Medicine Quantity: 3
+Medicine Price: 31.0
+Meicine Type: s
+
+Customer ID: 009
+Customer Name: Aziea
+Phone No: 019-79933563
+Age : 29
+Member Status: no
+Medcine ID: 7853
+Medicine Name: Blackmores OMEGA-3 Fish Oil 1000mg 120s
+Medicine Quantity: 2
+Medicine Price: 62.7
+Meicine Type: s
+
+Customer ID: 010
+Customer Name: Abdul
+Phone No: 011-79944563
+Age : 35
+Member Status: yes
+Medcine ID: 7854
+Medicine Name: Yuka Zan Kf94 4Ply Protective Face Mask 10s
+Medicine Quantity: 5
+Medicine Price: 13.9
+Meicine Type: m
+
+Customer ID: 011
+Customer Name: Razia
+Phone No: 019-70964560
+Age : 37
+Member Status: yes
+Medcine ID: 7855
+Medicine Name: Terumo Ss+20L Syringe 20ml Luer Lock 1s
+Medicine Quantity: 8
+Medicine Price: 2.9
+Meicine Type: m
+
+Customer ID: 012
+Customer Name: Amira
+Phone No: 012-20984560
+Age : 37
+Member Status: no
+Medcine ID: 7856
+Medicine Name: Flavettes Effevescent Glow Tab 15s
+Medicine Quantity: 5
+Medicine Price: 19.45
+Meicine Type: s
+
+Customer ID: 013
+Customer Name: Izzah
+Phone No: 019-70964330
+Age : 42
+Member Status: yes
+Medcine ID: 7857
+Medicine Name: Himalaya Pure Herbs Haridra 60s
+Medicine Quantity: 2
+Medicine Price: 36.3
+Meicine Type: s
+
+Customer ID: 014
+Customer Name: Khalis
+Phone No: 019-70054560
+Age : 30
+Member Status: yes
+Medcine ID: 7858
+Medicine Name: 21st Century Children Vaporbalm 38g
+Medicine Quantity: 3
+Medicine Price: 7.0
+Meicine Type: s
+
+Customer ID: 015
+Customer Name: Amalia
+Phone No: 011-70962260
+Age : 31
+Member Status: no
+Medcine ID: 7851
+Medicine Name: Hurixs Cool Inhaler 1Pc
+Medicine Quantity: 5
+Medicine Price: 5.6
+Meicine Type: m
+
+Customer ID: 016
+Customer Name: Aming
+Phone No: 011-74432563
+Age : 38
+Member Status: yes
+Medcine ID: 7846
+Medicine Name: Hovid Folic Acid 5mg 10sx10
+Medicine Quantity: 2
+Medicine Price: 6.0
+Meicine Type: s
+
+Customer ID: 017
+Customer Name: Haziq
+Phone No: 017-72060063
+Age : 30
+Member Status: yes
+Medcine ID: 7850
+Medicine Name: Nixoderm Ointment 17.7gm
+Medicine Quantity: 3
+Medicine Price: 14.9
+Meicine Type: m
+
+Customer ID: 018
+Customer Name: Sakinah
+Phone No: 013-79932553
+Age : 39
+Member Status: no
+Medcine ID: 7852
+Medicine Name: Scotts Emulsion 2x400ml
+Medicine Quantity: 4
+Medicine Price: 31.0
+Meicine Type: s
+
+Customer ID: 019
+Customer Name: Aminah
+Phone No: 012-20987760
+Age : 36
+Member Status: yes
+Medcine ID: 7856
+Medicine Name: Flavettes Effevescent Glow Tab 15s
+Medicine Quantity: 3
+Medicine Price: 19.45
+Meicine Type: s
+
+Customer ID: 020
+Customer Name: Akif
+Phone No: 019-78944063
+Age : 35
+Member Status: yes
+Medcine ID: 7848
+Medicine Name: Himalaya Pilex Ointment 30g
+Medicine Quantity: 3
+Medicine Price: 20.3
+Meicine Type: s
+
+Customer ID: 021
+Customer Name: Fahmi
+Phone No: 019-79933598
+Age : 45
+Member Status: yes
+Medcine ID: 7853
+Medicine Name: Blackmores OMEGA-3 Fish Oil 1000mg 120s
+Medicine Quantity: 4
+Medicine Price: 62.7
+Meicine Type: s
+
+Customer ID: 022
+Customer Name: Irdina
+Phone No: 012-30984540
+Age : 37
+Member Status: yes
+Medcine ID: 7856
+Medicine Name: Flavettes Effevescent Glow Tab 15s
+Medicine Quantity: 2
+Medicine Price: 19.45
+Meicine Type: s
+
+Customer ID: 023
+Customer Name: Rahman
+Phone No: 011-70962261
+Age : 40
+Member Status: no
+Medcine ID: 7851
+Medicine Name: Hurixs Cool Inhaler 1Pc
+Medicine Quantity: 3
+Medicine Price: 5.6
+Meicine Type: m

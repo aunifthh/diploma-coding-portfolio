@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MedicineLinkedList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=med
+comment2.target=void\ readFile(Medicine[])
+comment3.params=med
+comment3.target=void\ displayRecord(Medicine[])
+numComments=4
